@@ -1,0 +1,29 @@
+{
+  "name": "p5socketio",
+  "version": "1.0.0",
+  "description": "Socketio practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surakhchin/p5socketio.git"
+  },
+  "keywords": [
+    "socketi0",
+    "p5.js",
+    "node"
+  ],
+  "author": "Serge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surakhchin/p5socketio/issues"
+  },
+  "homepage": "https://github.com/surakhchin/p5socketio#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{p5socketio/node_modules}" />
+    <file url="PROJECT" libraries="{angular-DefinitelyTyped, jQuery UI-1.10.2, jQuery-2.0.0, jquery, node, node-DefinitelyTyped, p5socketio/node_modules, require, rx-angular-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+    <includedPredefinedLibrary name="WebGL" />
+  </component>
+</project>
